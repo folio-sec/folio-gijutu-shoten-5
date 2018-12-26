@@ -12,4 +12,14 @@ $ ./build-in-docker.sh
 
 ## 権利表記
 
-- https://github.com/TechBooster/ReVIEW-Template
+このソフトウェアは Apache License, Version 2.0 で配布されています。
+```
+Apache License, Version 2.0
+http://www.apache.org/licenses/LICENSE-2.0.html
+```
+
+また、このソフトウェアは以下のライセンスのもとに配布されているソフトウェアを含んでいます。
+
+### MIT License
+
+- https://github.com/TechBooster/ReVIEW-Template/
