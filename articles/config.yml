@@ -1,0 +1,30 @@
+review_version: 2.0
+debug: null
+bookname: folio-gijutu-shoten-5
+language: ja
+booktitle: "FOLIO ENGINEER BOOK"
+aut: ["FOLIO Publications"]
+edt: ["FOLIO Publications"]
+
+# 刊行日(省略した場合は実行時の日付)
+date: 2018-10-08
+history: [["2018-10-08 技術書典5版 v1.0.0"]]
+rights: (C) 2018 FOLIO Publications
+urnid: urn:uid:https://github.com/folio-sec/folio-gijutu-shoten-5
+htmlext: html
+stylesheet: ["style.scss"]
+epubversion: 3
+htmlversion: 5
+toclevel: 3
+secnolevel: 3
+toc: true
+colophon: true
+direction: "ltr"
+epubmaker:
+  htmlext: xhtml
+texstyle: techbooster-doujin
+texdocumentclass: ["jsbook", "b5j,twoside,openany,uplatex"]
+pdfmaker:
+  colophon: true
+webmaker:
+    stylesheet: ["style.css","style-web.css"]

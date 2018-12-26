@@ -1,0 +1,14 @@
+PREDEF:
+  - preface.re
+
+CHAPS:
+  - ken5scal.re
+  - quramy.re
+  - magiepooh.re
+  - kishikawakatsumi.re
+  - kenchan0130.re
+
+APPENDIX:
+
+POSTDEF:
+  - contributors.re
